@@ -1,3 +1,7 @@
+slime hunter is a first year graphic project at Epitech.
+The goal was to recreate in c, with the csfml lib, the game duckhunt from 1994.
+All the sprites was created by myself, here are some instructions for use:
+
 USAGE
     make : compile binary files
     make clean : remove .o files
