@@ -1,14 +1,16 @@
-slime hunter is a first year graphic project at Epitech.
+## SLIME HUNTER
+
+Slime hunter is a first year graphic project at Epitech.
 The goal was to recreate in c, with the csfml lib, the game duckhunt from 1994.
 All the sprites was created by myself, here are some instructions for use:
 
-USAGE
+### USAGE
     make : compile binary files
     make clean : remove .o files
     make fclean : remove all temporary files
     make re : remove all temporary files and compile binary files
     ./duckhunt : start the game
-USEFULL INDICATION
+### USEFULL INDICATION
     On the menu of the game, you can see your high score, it is saved when you quit the game, you can also see your score from the last game.
     On the menu there is also a button to quit on the top right.
     When you play you can press ECHAP to pause the game, so you have access to 3 buttons :
@@ -16,7 +18,7 @@ USEFULL INDICATION
         -MENU to return to the menu
         -QUIT to quit the game
     To start a game, press PLAY button's on the MENU.
-GOAL
+### GOAL
     The goal is to make the best score, to do this, you have to survive the longest.
     You can kill enemies by clicking on it.
     You lose the party when you lose all your life, and you lose a life when enemies touch you.
